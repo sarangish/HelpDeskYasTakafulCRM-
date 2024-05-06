@@ -1,0 +1,1054 @@
+Could not find stored procedure 'HD_InsUpdCustomer_'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Search Customer
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Could not find stored procedure 'NW_InsUpdCase'.
+Search Customer
+Search Customer
+Could not find stored procedure 'NW_InsUpdCase'.
+Could not find stored procedure 'NW_InsUpdCase'.
+Could not find stored procedure 'NW_InsUpdCase'.
+Could not find stored procedure 'NW_InsUpdCase'.
+Search Customer
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Error converting data type varchar to date.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Error converting data type varchar to date.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+EXEC HD_InsUpdCustomer 'U','','Voxtron','ME','LLC','voxinfo@voxtronme.com','','0527119799','0527119799','','','','','',','1'
+Incorrect syntax near '1'.
+Unclosed quotation mark after the character string ''.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+EXEC HD_InsUpdCustomer 'U','','Voxtron','ME','LLC','voxinfo@voxtronme.com','','0527119799','0527119799','','','','','','','','','','','','1'
+Procedure or function HD_InsUpdCustomer has too many arguments specified.
+EXEC HD_InsUpdCustomer 'U','','Voxtron','ME','LLC','voxinfo@voxtronme.com','','0527119799','0527119799','','','','          ','','','','','','','','1'
+Procedure or function HD_InsUpdCustomer has too many arguments specified.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+EXEC HD_InsUpdCustomer 'U','','Dubai Tourism','DE','LLC','dubaitourism@gmail.com','','123456789','98765431','','','','','','','','','','','4'
+EXEC HD_InsUpdCustomer 'U','','Dubai Tourism','DE','LLC','dubaitourism@gmail.com','','123456789','98765431','','','          ','','','','','','','','4'
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+EXEC HD_InsUpdCustomer 'U','','Dubai Tourism','DE','LLC','dubaitourism@gmail.com','','123456789','98765431','0522222','','          ','','','','','','','','4'
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Incorrect syntax near ','.
+Incorrect syntax near ','.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Error converting data type varchar to date.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Incorrect syntax near ','.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Error converting data type varchar to date.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The network connection was aborted by the local system.)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+EXEC HD_InsUpdCustomer 'U','','Voxtron','ME','LLC','voxinfo@voxtronme.com','','0527119799','0527119799','042931111','','          ','','','','','','','','1'
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','sfsf','dfddff','fsdf','','','','dffffffffffffdf','','','','','','5,'0
+Incorrect syntax near '0'.
+EXEC HD_InsUpdCustomer 'I','Mr.','sfsf','dfddff','fsdf','','','','dffffffffffffdf','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','','','','','','','','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','eeee','rrrrrr','eeee','','','','eee','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','rffff','dgsg','fff','ddsdgsdgs','','','','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','kjhjubh','hvhvgc','fcfcf','hbhvg','','','','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','sfdfd','fdfd','dfdf','dfdfdf','','','dfd','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','sdsd','sfsf','sfsfs','sfsfdf','','','','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','zdfsdfsd','dfsdf','dfdsfdf','dfds','','','dfd','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','sfsf','sfsf','sfsf','sfsfsf','','','sfsfsf','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','dsdsd','sfsfsf','sfsf','sfsf','','sfsfsf','sfsfsfs','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','Shameem','mohammed','kp','sham@gmail.com','','00000','0000000','000000','','','','','5,'0
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','kunjhimon','kulu','jnjdn','njnjnj','','jjnjn','jjnjnj','jnjnjn','','jnjn','','','5,'0
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','','','','','','','','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','Mohammd','sulaiman','kk','sul@gmail.com','','1234567','0527119799','','','','','','5,'0
+Incorrect syntax near '0'.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','sulaaaaa','test','test last','test@gamaj','','87886','23233434','','','','','','5,'0'
+Incorrect syntax near '0'.
+Unclosed quotation mark after the character string ''.
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+Search Customer
+EXEC HD_InsUpdCustomer 'I','Mr.','beeran','kunjhali','kutty','kutty@gmail.com','','1234567','0527119799','7625345','','','','','5','0'
+Search Customer
+Search Customer
+Search Customer
+Thread was being aborted.
+Search Customer
+Search Customer
+Procedure or function 'HD_SP_InsUpdcase' expects parameter '@CaseCreateddate', which was not supplied.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+Thread was being aborted.
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Thread was being aborted.
+A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Conversion failed when converting the varchar value 'New Solution' to data type int.
+Thread was being aborted.
+Conversion failed when converting the varchar value 'New Solution' to data type int.
+Thread was being aborted.
+Operand type clash: ntext is incompatible with int
+Operand type clash: ntext is incompatible with int
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Conversion failed when converting the varchar value 'New Solution' to data type int.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Conversion failed when converting from a character string to uniqueidentifier.
+Conversion failed when converting from a character string to uniqueidentifier.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Procedure or function 'HD_SP_InsUpdcase' expects parameter '@CaseCreateddate', which was not supplied.
+Thread was being aborted.
+Procedure or function 'HD_SP_InsUpdcase' expects parameter '@CaseCreateddate', which was not supplied.
+Procedure or function 'HD_SP_InsUpdcase' expects parameter '@CaseCreateddate', which was not supplied.
+Thread was being aborted.
+Thread was being aborted.
+Procedure or function 'HD_SP_InsUpdcase' expects parameter '@CaseCreateddate', which was not supplied.
+Procedure or function 'HD_SP_InsUpdcase' expects parameter '@CaseCreateddate', which was not supplied.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Thread was being aborted.
+Login failed for user 'sa'.
+Login failed for user 'sa'.
+Login failed for user 'sa'.
+Login failed for user 'sa'.
+Login failed for user 'sa'.
+Thread was being aborted.
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Invalid column name 'Cust_HomeNum'.
+Invalid column name 'Cust_HomeNum'.
+Invalid column name 'Cust_HomeNum'.
